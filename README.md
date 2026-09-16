@@ -42,3 +42,11 @@ Currently, I am focused on improving my **MERN Stack skills** and building **rea
     <img src="./assets/Gmail.svg" width="40" alt="Email">
   </a>
 </p>
+<h2>🛠️ Tech Stack</h2>
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode"
+       alt="Tech Stack">
+
+</p>
