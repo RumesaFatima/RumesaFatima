@@ -63,3 +63,118 @@ Currently, I am focused on improving my **MERN Stack skills** and building **rea
 <p align="center">
   <img src="./assets/contributions.dark.svg" width="700" alt="GitHub Contributions">
 </p>
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Campus Rescue
+
+A full-stack MERN application for campus complaints and requests.
+
+**Tech:** MongoDB • Express.js • React • Node.js • JWT
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛍️ FASCO
+
+A MERN stack e-commerce application with customer, product, order and review management.
+
+**Tech:** MongoDB • Express.js • React • Node.js • Stripe
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 👗 Zara-Inspired E-Commerce
+
+A responsive React e-commerce frontend with cart state management.
+
+**Tech:** React • Bootstrap
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🍰 Sweets Website
+
+A responsive website built from scratch with a gradient-based design.
+
+**Tech:** HTML • CSS
+
+</td>
+
+</tr>
+</table>
+<h2>🎓 Education</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Modern Web & App Development
+
+**SMIT — Karachi**
+
+Completed Modern Web & App Development Program.
+
+### 🏫 Matriculation — Science/Biology
+
+**Karachi Board**
+
+A+ Grade  
+86% in 9th • 82% in 10th
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 Intermediate — Pre-Medical
+
+**Larkana Board**
+
+1st Year completed.  
+Final exams in 2027.
+
+</td>
+
+</tr>
+</table>
+<h2>📜 Certifications & Activities</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📜 Certifications
+
+- SMIT Modern Web & App Development Certificate
+- 8-Hour Hackathon Certificate
+- Cisco — HTML Essentials
+- Cisco — CSS Essentials
+- Cisco — Introduction to Modern AI
+- ZebTech — MS Office Certificate
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤝 Activities
+
+- Volunteer — Saylani Female AI Hackathon
+- Attended an Agentic AI Event
+
+</td>
+
+</tr>
+</table>
