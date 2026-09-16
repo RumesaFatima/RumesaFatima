@@ -50,3 +50,16 @@ Currently, I am focused on improving my **MERN Stack skills** and building **rea
        alt="Tech Stack">
 
 </p>
+<h2>📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="./assets/overview.dark.svg" width="700" alt="GitHub Overview">
+</p>
+
+<p align="center">
+  <img src="./assets/languages.dark.svg" width="700" alt="GitHub Languages">
+</p>
+
+<p align="center">
+  <img src="./assets/contributions.dark.svg" width="700" alt="GitHub Contributions">
+</p>
