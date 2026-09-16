@@ -27,3 +27,18 @@ Currently, I am focused on improving my **MERN Stack skills** and building **rea
 </td>
 </tr>
 </table>
+<h2>🔗 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/RumesaFatima">
+    <img src="./assets/github icon white.svg" width="35" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rumesa-fatima-a0971a38b">
+    <img src="./assets/Linkedin Icon.svg" width="35" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rumesaf6@gmail.com">
+    <img src="./assets/Gmail.svg" width="40" alt="Email">
+  </a>
+</p>
