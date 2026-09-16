@@ -178,3 +178,50 @@ Final exams in 2027.
 
 </tr>
 </table>
+<h2>🌟 Strengths & Languages</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💡 Strengths
+
+- Fast Learner
+- Research-Oriented
+- Analytical Thinking
+- Creative Thinking
+- Problem Solving
+- UI / Aesthetic Sense
+- Adaptability
+- Continuous Learning
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Languages
+
+- **Urdu** — Native
+- **English** — Proficient
+
+</td>
+
+</tr>
+</table>
+<h2>📚 Currently Learning</h2>
+
+<p align="center">
+  Improving my <strong>MERN Stack skills</strong> and building <strong>real-world web applications</strong> through practical projects.
+</p>
+<h2>✨ Thanks for Visiting!</h2>
+
+<p align="center">
+  Thanks for taking the time to visit my profile.  
+  <br>
+  I'm always learning, building, and improving.
+</p>
+
+<p align="center">
+  <strong>Let's build something meaningful together! 🚀</strong>
+</p>
