@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    .icon {
+      transform-origin: center;
+      animation: glow 2.2s ease-in-out infinite;
+    }
+
+    @keyframes glow {
+      0%, 100% {
+        transform: scale(1);
+        opacity: 1;
+      }
+      50% {
+        transform: scale(1.08);
+        opacity: 0.85;
+      }
+    }
+  </style>
+
+  <g class="icon">
+    <path fill="#0A66C2" d="M18.5 31H4.5V95H18.5V31ZM11.5 5C7 5 4 8 4 12.5S7 20 11.5 20 19 17 19 12.5 16 5 11.5 5ZM28 31H41.5V39.7H41.7C43.6 36 48.3 29.5 57.9 29.5 72 29.5 75 38.8 75 51V95H61V55.7C61 46.3 60.8 34.4 51.7 34.4 42.4 34.4 41 44.4 41 54.9V95H28V31Z"/>
+  </g>
+</svg>
